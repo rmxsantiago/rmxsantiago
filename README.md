@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Who am I?
-💬 I'm a Software Engineer since **2006** 
-💬 I have vast experience from different industries, from ERPs to Payments Gateways
-💬 I started my career as a Java FullStack Developer
-⚡ I've been working in Mobile application development since **2013**
-⚡ I have past experience with both Android (Java/Kotlin) and iOS development (Objective-C/Swift)
-🔭 I've been working only in Android since **2021**
+- 💬 I'm a Software Engineer since **2006** 
+- 💬 I have vast experience from different industries, from ERPs to Payments Gateways
+- 💬 I started my career as a Java FullStack Developer
+- ⚡ I've been working in Mobile application development since **2013**
+- ⚡ I have past experience with both Android (Java/Kotlin) and iOS development (Objective-C/Swift)
+- 🔭 I've been working only in Android since **2021**
 
 
 ## 💻 My Current Tech Skills 💻
