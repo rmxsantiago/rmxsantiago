@@ -1,55 +1,18 @@
-# Nice to meet you! I'm Rafael Santiago! 👋🙇
+# 💻 Rafael Santiago
+**`Software Engineer specialised in Android development`**
 
-<!--
-**rmxsantiago/rmxsantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🫣 **2006:** Java Fullstack Developer
+- 👀 **2013:** First contact with Android development
+- 📱 **2015:** Mobile Software Engineer - both Android and iOS
+- 🗒️ **2018:** [Google Certified Associate Android Developer](https://www.credential.net/ea499f04-8229-4294-874b-0a7a0cf2b358#acc.Zzy5IxS2)
+- 🎉 **2021:** Android developer Specialist
 
-Here are some ideas to get you started:
+## My Main Interests
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> ![](https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Who am I?
-- 💬 I'm a Software Engineer since **2006** 
-- 💬 I have vast experience from different industries, from ERPs to Payments Gateways
-- 💬 I started my career as a Java FullStack Developer
-- ⚡ I've been working in Mobile application development since **2013**
-- ⚡ I have past experience with both Android (Java/Kotlin) and iOS development (Objective-C/Swift)
-- 🔭 I've been working in Android ecosystem exclusively since **2021**
+## Hobby Interests
+![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&theme=light)
 
-
-## 💻 My Current Tech Skills 💻
-
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,c,cpp&theme=light)](https://skillicons.dev)
-
-### Platforms
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light)](https://skillicons.dev)
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png">
-
-
-### IDE & Text Editors
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vim,vscode&theme=light)](https://skillicons.dev)
-
-### Libraries
-[![My Skills](https://skillicons.dev/icons?i=ktor&theme=light)](https://skillicons.dev)
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png">
-
-### Networking
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png">
-
-
-### Build System
-[![My Skills](https://skillicons.dev/icons?i=gradle&theme=light)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,regex&theme=light)](https://skillicons.dev)
-
-### Operational Systems
-[![My Skills](https://skillicons.dev/icons?i=apple,linux,arch&theme=light)](https://skillicons.dev)
+## Let's connect!
+[![Rafael's LinkedIn Profile](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/rmxsantiago/)
+[![Rafael's Dev.to Profile](https://skillicons.dev/icons?i=devto&theme=dark)](https://dev.to/rmxsantiago)
