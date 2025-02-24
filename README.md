@@ -13,6 +13,6 @@
 ## Hobby
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&theme=dark)
 
-## Let's connect!
+## Contact
 [![Rafael's LinkedIn Profile](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/rmxsantiago/)
 [![Rafael's Dev.to Profile](https://skillicons.dev/icons?i=devto&theme=dark)](https://dev.to/rmxsantiago)
