@@ -1,5 +1,5 @@
 # 💻 Rafael Santiago
-**`Software Engineer specialised in Android development`**
+**`Software Engineer - Android Developer`**
 
 - 🫣 **2006:** Java Fullstack Developer
 - 👀 **2013:** First contact with Android development
